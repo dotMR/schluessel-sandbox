@@ -1,0 +1,118 @@
+[
+     {
+        "id" : "nominativ",
+        "deklination-types": [
+                           { "title":"Definiter Artikel",
+                              "genus-deklinations": [
+                           { "id":"maskulin", "ending":"e", "example":"der schöne Hund"},
+                           { "id":"neutral", "ending":"e", "example":"das gute Bier"},
+                           { "id":"feminin", "ending":"e", "example":"die schöne Katze"},
+                           { "id":"plural", "ending":"en", "example":"die schönen Kinder"}
+                                   ]
+                         },
+                         { "title":"Indefiniter Artikel, Possessiv-, Negativartikel",
+                              "genus-deklinations": [
+                           { "id":"maskulin", "ending":"er", "example":"mein schöner Hund"},
+                           { "id":"neutral", "ending":"es", "example":"ein gutes Bier"},
+                           { "id":"feminin", "ending":"e", "example":"meine schöne Katze"},
+                           { "id":"plural", "ending":"en", "example":"unsere schönen Kinder"}
+                                   ]
+                         },
+                         { "title":"Ohne Artikel",
+                              "genus-deklinations": [
+                           { "id":"maskulin", "ending":"er", "example":"schöner Hund"},
+                           { "id":"neutral", "ending":"es", "example":"gutes Bier"},
+                           { "id":"feminin", "ending":"e", "example":"schöne Katze"},
+                           { "id":"plural", "ending":"e", "example":"schöne Kinder"}
+                                   ]
+                         }
+                         ]
+     },
+    {
+        "id" : "akkusativ",
+        "deklination-types": [
+                       { "title":"Definiter Artikel",
+                       "genus-deklinations": [
+                                              { "id":"maskulin", "ending":"en", "example":"den schönen Hund"},
+                                              { "id":"neutral", "ending":"e", "example":"das gute Bier"},
+                                              { "id":"feminin", "ending":"e", "example":"die schöne Katze"},
+                                              { "id":"plural", "ending":"en", "example":"die schönen Kinder"}
+                                              ]
+                       },
+                       { "title":"Indefiniter Artikel, Possessiv-, Negativartikel",
+                       "genus-deklinations": [
+                                              { "id":"maskulin", "ending":"en", "example":"meinen schönen Hund"},
+                                              { "id":"neutral", "ending":"es", "example":"ein gutes Bier"},
+                                              { "id":"feminin", "ending":"e", "example":"meine schöne Katze"},
+                                              { "id":"plural", "ending":"en", "example":"unsere schönen Kinder"}
+                                              ]
+                       },
+                       { "title":"Ohne Artikel",
+                       "genus-deklinations": [
+                                              { "id":"maskulin", "ending":"en", "example":"schönen Hund"},
+                                              { "id":"neutral", "ending":"es", "example":"gutes Bier"},
+                                              { "id":"feminin", "ending":"e", "example":"schöne Katze"},
+                                              { "id":"plural", "ending":"e", "example":"schöne Kinder"}
+                                              ]
+                       }
+                       ]
+ },
+ {
+    "id" : "dativ",
+    "deklination-types": [
+                       { "title":"Definiter Artikel",
+                       "genus-deklinations": [
+                                              { "id":"maskulin", "ending":"en", "example":"dem schönen Hund"},
+                                              { "id":"neutral", "ending":"en", "example":"dem guten Bier"},
+                                              { "id":"feminin", "ending":"en", "example":"der schönen Katze"},
+                                              { "id":"plural", "ending":"en*", "example":"den schönen Kindern"}
+                                              ]
+                       },
+                       { "title":"Indefiniter Artikel, Possessiv-, Negativartikel",
+                       "genus-deklinations": [
+                                              { "id":"maskulin", "ending":"en", "example":"meinem schönen Hund"},
+                                              { "id":"neutral", "ending":"en", "example":"einem guten Bier"},
+                                              { "id":"feminin", "ending":"en", "example":"meiner schönen Katze"},
+                                              { "id":"plural", "ending":"en*", "example":"unseren schönen Kindern"}
+                                              ]
+                       },
+                       { "title":"Ohne Artikel",
+                       "genus-deklinations": [
+                                              { "id":"maskulin", "ending":"em", "example":"schönem Hund"},
+                                              { "id":"neutral", "ending":"em", "example":"gutem Bier"},
+                                              { "id":"feminin", "ending":"er", "example":"schöner Katze"},
+                                              { "id":"plural", "ending":"en*", "example":"schönen Kindern"}
+                                              ]
+                       }
+                       ]
+ },
+ {
+ "id" : "genitiv",
+ "deklination-types": [
+                       { "title":"Definiter Artikel",
+                       "genus-deklinations": [
+                                              { "id":"maskulin", "ending":"en", "example":"todo"},
+                                              { "id":"neutral", "ending":"en", "example":"todo"},
+                                              { "id":"feminin", "ending":"en", "example":"todo"},
+                                              { "id":"plural", "ending":"en", "example":"todo"}
+                                              ]
+                       },
+                       { "title":"Indefiniter Artikel, Possessiv-, Negativartikel",
+                       "genus-deklinations": [
+                                              { "id":"maskulin", "ending":"en", "example":"todo"},
+                                              { "id":"neutral", "ending":"en", "example":"todo"},
+                                              { "id":"feminin", "ending":"en", "example":"todo"},
+                                              { "id":"plural", "ending":"en", "example":"todo"}
+                                              ]
+                       },
+                       { "title":"Ohne Artikel",
+                       "genus-deklinations": [
+                                              { "id":"maskulin", "ending":"en", "example":"todo"},
+                                              { "id":"neutral", "ending":"en", "example":"todo"},
+                                              { "id":"feminin", "ending":"er", "example":"todo"},
+                                              { "id":"plural", "ending":"er", "example":"todo"}
+                                              ]
+                       }
+                       ]
+ }
+]

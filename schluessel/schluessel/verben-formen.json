@@ -1,0 +1,58 @@
+[
+ {
+ "infinitiv" : "rufen",
+ "präsens" : "ruft",
+ "präteritum" : "rief",
+ "partizip-perfekt" : "gerufen",
+ "imperativ" : "ruf",
+ "hilfsverben" : "h"
+ },
+ {
+ "infinitiv" : "nehmen",
+ "präsens" : "nimmt",
+ "präteritum" : "nahm",
+ "partizip-perfekt" : "genommen",
+ "imperativ" : "nimm",
+ "hilfsverben" : "h"
+ },
+ {
+ "infinitiv" : "treffen",
+ "präsens" : "trifft",
+ "präteritum" : "traf",
+ "partizip-perfekt" : "getroffen",
+ "imperativ" : "triff",
+ "hilfsverben" : "h"
+ },
+ {
+ "infinitiv" : "sprechen",
+ "präsens" : "spricht",
+ "präteritum" : "sprach",
+ "partizip-perfekt" : "gesprochen",
+ "imperativ" : "sprich",
+ "hilfsverben" : "h"
+ },
+ {
+ "infinitiv" : "schreiben",
+ "präsens" : "schreibt",
+ "präteritum" : "schrieb",
+ "partizip-perfekt" : "gescrieben",
+ "imperativ" : "schreib",
+ "hilfsverben" : "h"
+ },
+ {
+ "infinitiv" : "fangen",
+ "präsens" : "fängt",
+ "präteritum" : "fing",
+ "partizip-perfekt" : "gefangen",
+ "imperativ" : "fang",
+ "hilfsverben" : "h"
+ },
+ {
+ "infinitiv" : "entschieden",
+ "präsens" : "entscheidet",
+ "präteritum" : "entschied",
+ "partizip-perfekt" : "entschieden",
+ "imperativ" : "entscheid(e)",
+ "hilfsverben" : "h"
+ }
+]

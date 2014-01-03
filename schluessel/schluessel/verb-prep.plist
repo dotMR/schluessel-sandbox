@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>verbs-preps</key>
+    <array>
+        <dict>
+            <key>id</key>
+            <string>vp1</string>
+            <key>Infinitive</key>
+            <string>Angst haben</string>
+            <key>Prep</key>
+            <string>vor</string>
+            <key>Sentence</key>
+            <string></string>
+        </dict>
+        <dict>
+            <key>id</key>
+            <string>vp4</string>
+            <key>Infinitive</key>
+            <string>denken</string>
+            <key>Prep</key>
+            <string>an</string>
+            <key>Sentence</key>
+            <string>Sabine denkt immer an ihre Familie</string>
+        </dict>
+        <dict>
+            <key>id</key>
+            <string>vp2</string>
+            <key>Infinitive</key>
+            <string>Problem haben</string>
+            <key>Prep</key>
+            <string>mit</string>
+            <key>Sentence</key>
+            <string></string>
+        </dict>
+        <dict>
+            <key>id</key>
+            <string>vp5</string>
+            <key>Infinitive</key>
+            <string>träumen</string>
+            <key>Prep</key>
+            <string>von</string>
+            <key>Sentence</key>
+            <string>Minako träumt von ihrem geliebten japansichen Essen</string>
+        </dict>
+        <dict>
+            <key>id</key>
+            <string>vp3</string>
+            <key>Infinitive</key>
+            <string>warten</string>
+            <key>Prep</key>
+            <string>auf</string>
+            <key>Sentence</key>
+            <string>Ich halbe eine halbe Stunde auf sie gewartet</string>
+        </dict>
+    </array>
+</dict>
+</plist>
